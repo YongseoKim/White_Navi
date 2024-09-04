@@ -1,0 +1,3 @@
++ 4.0
+isDeviceFound is now isDevicePaired
+stopListening is now Disconnect
